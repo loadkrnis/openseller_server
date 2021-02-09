@@ -17,7 +17,7 @@ const imageRouter = require('./routes/image');
 // var Apis = require('./routes/apis');
 
 var sequelize = require('./models').sequelize;
-
+ 
 var app = express();
 sequelize.sync();
 
