@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "openseller",
+    "password": "openseller",
+    "database": "openseller",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "openseller",
+    "password": "openseller",
+    "database": "openseller",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "openseller",
+    "password": "openseller",
+    "database": "openseller",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
